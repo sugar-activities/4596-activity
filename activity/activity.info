@@ -1,0 +1,7 @@
+[Activity]
+name = Vascolet
+service_name = com.batovi.Vascolet
+icon = vascolet_icon
+activity_version = 1
+show_launcher = yes
+exec = sugarVascolet
